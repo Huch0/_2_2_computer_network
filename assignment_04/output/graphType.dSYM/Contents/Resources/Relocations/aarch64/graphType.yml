@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chiyeong/Documents/2-2/_2_2_computer_network/assignment_04/output/graphType'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _print_status, symObjAddr: 0x0, symBinAddr: 0x1000035D8, symSize: 0x164 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _distance, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x75, offset: 0x75, size: 0x8, addend: 0x0, symName: _found, symBinAddr: 0x100008028, symSize: 0x0 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _print_status, symObjAddr: 0x0, symBinAddr: 0x1000035D8, symSize: 0x164 }
+  - { offsetInCU: 0xE8, offset: 0xE8, size: 0x8, addend: 0x0, symName: _choose, symObjAddr: 0x164, symBinAddr: 0x10000373C, symSize: 0xB8 }
+  - { offsetInCU: 0x164, offset: 0x164, size: 0x8, addend: 0x0, symName: _shortest_path, symObjAddr: 0x21C, symBinAddr: 0x1000037F4, symSize: 0x224 }
+  - { offsetInCU: 0x1F8, offset: 0x1F8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x440, symBinAddr: 0x100003A18, symSize: 0x7C }
+...
